@@ -1,0 +1,18 @@
+{
+  "editor.fontSize": 12,
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  },
+  "eslint.validate": [
+    "javascript"
+  ],
+  "editor.fontFamily": "Consolas",
+  "editor.fontFamily": "Fira Code",
+  "editor.fontLigatures": true,
+  "terminal.integrated.profiles.osx": {
+    "zsh-default": {
+      "path": "/bin/zsh",
+    }
+  },
+  "terminal.integrated.defaultProfile.osx": "zsh-default",
+}
